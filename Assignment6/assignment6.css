@@ -1,0 +1,26 @@
+@media (width : 786px) and (height : 600px)  {
+	
+	#text {
+		color : blue;
+		font-size : 36pt;
+		font-family : Arial;
+	}
+}
+
+@media (width : 300px) and (height : 350px){
+	
+	#text{
+		color : red;
+		font-size : 24pt;
+		font-family : Helvetica;
+	}
+}
+
+@media (width : 100px) and (height: 100px){
+	
+	#text{
+		color : purple;
+		font-size : 18pt;
+		font-family : Courier;
+	}
+}
